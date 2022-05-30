@@ -16,11 +16,11 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-//\\	facebook: "https://www.facebook.com/1hanzla100",
 	github: "https://github.com/salvien-code",
 	linkedin: "https://www.linkedin.com/in/ximon/",
 	instagram: "https://www.instagram.com/__ximon",
 	twitter: "https://twitter.com/sympli_simon",
+	medium: "https://www.medium.com/@salviensky",
 };
 
 export const skillsSection = {
@@ -36,7 +36,7 @@ export const skillsSection = {
 					"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
 				),
 				emoji(
-					"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura"
+					"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Hardhat and Ganache"
 				),
 				emoji(
 					"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
@@ -66,9 +66,33 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:metamask-icon",
 				},
 				{
-					skillName: "Ganache",
-					fontAwesomeClassname: "logos:ganache-icon",
+					skillName: "Hardhat",
+					fontAwesomeClassname: "logos:hardhat-icon",
 				},
+				{
+					skillName: "Ganache",
+					fontAwesomeClassname: "logos:ganache-icon"
+				},
+				{
+					skillName: "IPFS",
+					fontAwesomeClassname: "simple-icons:ipfs",
+				},
+				{
+					skillName: "Typescript",
+					fontAwesomeClassname: "vscode-icons:file-type-typescript-official",
+				},
+				{
+					skillName: "Reactjs",
+					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
+				},
+				{
+					skillName: "MaterialUI",
+					fontAwesomeClassname: "simple-icons:mui"
+				},
+				{
+					skillName: "Rust",
+					fontAwesomeClassname: "logos:rust"
+				}
 			],
 		},
 		{
@@ -80,50 +104,47 @@ export const skillsSection = {
 					"⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"
 				),
 				emoji(
-					"⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions"
+					"⚡ Building CI/CD pipelines for automated testing & deployment using CircleCi and Argo CD"
 				),
 			],
 			softwareSkills: [
 				{
-					skillName: "AWS",
-					fontAwesomeClassname: "logos:aws",
+					skillName: "Git",
+					fontAwesomeClassname: "bi:git"
 				},
 				{
-					skillName: "Azure",
-					fontAwesomeClassname: "logos:microsoft-azure",
+					skillName: "MongoDB",
+					fontAwesomeClassname: "bxl:mongodb"
 				},
+				{
+					skillName: "Docker",
+					fontAwesomeClassname: "logos:docker-icon"
+				},
+				{
+					skillName: "Kubernetes",
+					fontAwesomeClassname: "logos:kubernetes"
+				},
+				{
+					skillName: "CircleCi",
+					fontAwesomeClassname: "logos:circleci"
+				},
+				{
+					skillName: "Argo CD",
+					fontAwesomeClassname: "logos:argo-icon"
+				},
+				{
+					skillName: "Google Cloud",
+					fontAwesomeClassname: "logos:google-cloud"
+				},
+
+
+
 				{
 					skillName: "Heroku",
 					fontAwesomeClassname: "logos:heroku-icon",
 				},
-				{
-					skillName: "PostgreSQL",
-					fontAwesomeClassname: "logos:postgresql",
-				},
-				{
-					skillName: "Github",
-					fontAwesomeClassname: "akar-icons:github-fill",
-				},
-				{
-					skillName: "Docker",
-					fontAwesomeClassname: "logos:docker-icon",
-				},
-				{
-					skillName: "Github Actions",
-					fontAwesomeClassname: "logos:github-actions",
-				},
-				{
-					skillName: "Cloudinary",
-					fontAwesomeClassname: "logos:cloudinary",
-				},
-				{
-					skillName: "Nginx",
-					fontAwesomeClassname: "logos:nginx",
-				},
-				{
-					skillName: "Sentry",
-					fontAwesomeClassname: "logos:sentry-icon",
-				},
+
+
 			],
 		},
 		{
@@ -131,55 +152,45 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/Quant.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
+					"⚡ Backtesting trading systems using historical data"
 				),
-				emoji("⚡ Building responsive static websites using Next.js"),
 				emoji(
-					"⚡ Building RESTful APIs in Django & Django REST Framework"
-				),
+					"⚡ Building robust trading systems by performing Walk Forward Optimization using python"
+				)
 			],
 			softwareSkills: [
-				{
-					skillName: "HTML-5",
-					fontAwesomeClassname: "vscode-icons:file-type-html",
-				},
-				{
-					skillName: "CSS-3",
-					fontAwesomeClassname: "vscode-icons:file-type-css",
-				},
-				{
-					skillName: "JavaScript",
-					fontAwesomeClassname: "logos:javascript",
-				},
-				{
-					skillName: "Reactjs",
-					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
-				},
-				{
-					skillName: "Nextjs",
-					fontAwesomeClassname: "vscode-icons:file-type-light-next",
-				},
 				{
 					skillName: "Python",
 					fontAwesomeClassname: "logos:python",
 				},
 				{
-					skillName: "Django",
-					fontAwesomeClassname: "vscode-icons:file-type-django",
+					skillName: "Pinescript",
+					fontAwesomeClassname: "file-icons:pinescript",
 				},
+				{
+					skillName: "Numpy",
+					fontAwesomeClassname: "logos:numpy"
+				},
+				{
+					skillName: "SQLite",
+					fontAwesomeClassname: "vscode-icons:file-type-sqlite"
+				},
+				{
+					skillName: "Flask",
+					fontAwesomeClassname: "bxl:flask"
+				},
+				{
+					skillName: "Express",
+					fontAwesomeClassname: "simple-icons:express"
+				}
 
-				{
-					skillName: "Redux",
-					fontAwesomeClassname: "logos:redux",
-				},
-				{
-					skillName: "NPM",
-					fontAwesomeClassname: "logos:npm-icon",
-				},
-				{
-					skillName: "Yarn",
-					fontAwesomeClassname: "logos:yarn",
-				},
+
+
+
+
+
+
+
 			],
 		},	
 	],
@@ -214,13 +225,11 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "University of Port Harcourt",
+		subHeader: "Bachelor of Science in Computer Science",
+		duration: "September 2018 - April 2023",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Profound knowledge of Algorithms, Data Structures and Design Patterns"
 		],
 	},
 ];
