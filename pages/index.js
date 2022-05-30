@@ -25,13 +25,13 @@ export default function Home({ githubProfileData }) {
 					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 					url: "https://developer-portfolio-1hanzla100.vercel.app",
 					keywords: [
-						"Hanzla",
-						"Hanzla Tauqeer",
-						"@1hanzla100",
-						"1hanzla100",
+						"Simon",
+						"Simon Samuel",
+						"@sympli_simon",
+						"ximon",
 						"Portfolio",
-						"Hanzla Portfolio ",
-						"Hanzla Tauqeer Portfolio",
+						"Simon Portfolio",
+						"Simon Samuel Portfolio",
 					],
 				}}
 			/>
