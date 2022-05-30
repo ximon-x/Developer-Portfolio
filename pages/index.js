@@ -22,8 +22,8 @@ export default function Home({ githubProfileData }) {
 					title: "Simon Samuel",
 					description:
 						"An innovative Blockchain, Cloud and Quantitative Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1hanzla100.vercel.app",
+					image: "https://avatars.githubusercontent.com/u/56292632?v=4",
+					url: "https://simon-samuel.netlify.app/",
 					keywords: [
 						"Simon",
 						"Simon Samuel",
