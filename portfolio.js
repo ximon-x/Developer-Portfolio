@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Simon Samuel",
 	title: "Hey, I'm Simon",
 	description:
-		"I'm a Blockchain developer with experience on Ethereum, Solidity, Web3.js, Hardhat, Moralis, and IPFS Framework. I'm also a Cloud developer and have knowledge on CI/CD systems using GitOps and working with Docker, CircleCi, Flux CD and Kubernetes. I'm also a quantitative developer fluent in MQL5 and Pinescript and other mathematical trading methods.",
+		"I'm a Blockchain developer with experience using Solidity, Web3 to build cross platform dapps, a Cloud developer having profound knowledge on GitOps and building CI/CD systems and I'm also a quantitative developer able to use mathematical methods like Walk Forward Optimization and Backtesting to build robust trading systems.",
 	resumeLink:
 		"https://docs.google.com/document/d/1py9T68qf517224saYnid75M-lSJWBEaiUBQWsLL4qyo/edit?usp=sharing",
 };
@@ -136,15 +136,10 @@ export const skillsSection = {
 					skillName: "Google Cloud",
 					fontAwesomeClassname: "logos:google-cloud"
 				},
-
-
-
 				{
 					skillName: "Heroku",
 					fontAwesomeClassname: "logos:heroku-icon",
 				},
-
-
 			],
 		},
 		{
@@ -183,14 +178,6 @@ export const skillsSection = {
 					skillName: "Express",
 					fontAwesomeClassname: "simple-icons:express"
 				}
-
-
-
-
-
-
-
-
 			],
 		},	
 	],
@@ -236,32 +223,32 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "API Engineer",
-		company: "Duseca Software",
+		role: "Junior Blockchain Developer",
+		company: "Xade",
 		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Jan 2022 – Mar 2022",
-		desc: "I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
+		date: "April 2023 – Present",
+		desc: "I worked as a blockchain engineer in charge of integration with Metamask, building smart contracts and also managing deployed on chain contracts."
 	},
 ];
 
 export const projects = [
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		link: "https://atlasmart.netlify.app/",
+		name: "ThirdWeb Marketplace",
+		desc: "Using the ThirdWeb SDK, Next.js and Ethers.js, I built an NFT marketplace, Check it out:",
+		github: "https://github.com/salvien-code/ThirdWeb-NFT-Marketplace.",
 	},
-	{
-		name: "Developer-Portfolio",
-		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
-	},
+	// {
+	// 	name: "Developer-Portfolio",
+	// 	desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
+	// 	github: "https://github.com/1hanzla100/developer-portfolio",
+	// 	link: "https://developer-portfolio-1hanzla100.vercel.app/",
+	// },
 ];
 
 export const feedbacks = [
 	{
-		name: "John Smith",
+		name: "Harshall Arnav",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"He's catches up quickly and always keeps an open mind."
 	}
 ];
