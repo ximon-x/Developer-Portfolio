@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Simon Samuel",
 	title: "Hey, I'm Simon",
 	description:
-		"I'm a Blockchain developer with experience using Solidity, Web3 to build cross platform dapps, a Cloud developer having profound knowledge on GitOps and building CI/CD systems and I'm also a quantitative developer able to use mathematical methods like Walk Forward Optimization and Backtesting to build robust trading systems.",
+		"I'm a Blockchain developer with experience using Solidity, Web3.js to build cross platform dapps, a Cloud developer having profound knowledge on GitOps and building CI/CD systems and I'm also a quantitative developer able to use mathematical methods like Walk Forward Optimization and Backtesting to build robust trading systems.",
 	resumeLink:
 		"https://docs.google.com/document/d/1py9T68qf517224saYnid75M-lSJWBEaiUBQWsLL4qyo/edit?usp=sharing",
 };
@@ -24,28 +24,28 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-	title: "Who do I do?",
+	title: "Who am I?",
 	subTitle:
-		"An innovative Software Developer with a passion for personal growth and learning.",
+		"I'm an innovative and Software Developer with a passion for personal growth and learning.",
 	data: [
 		{
 			title: "Blockchain Development",
 			lottieAnimationFile: "/lottie/skills/Blockchain.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
+					"⚡ Experience in developing Smart Contract using Solidity & Rust."
 				),
 				emoji(
-					"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Hardhat and Ganache"
+					"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Hardhat and Ganache."
 				),
 				emoji(
-					"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
+					"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles."
 				),
 				emoji(
-					"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"
+					"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard."
 				),
 				emoji(
-					"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
+					"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS."
 				),
 			],
 			softwareSkills: [
@@ -99,12 +99,12 @@ export const skillsSection = {
 			title: "Cloud Computing",
 			lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
 			skills: [
-				emoji("⚡ Experience of working on multiple cloud platforms"),
+				emoji("⚡ Experience of working on multiple cloud platforms."),
 				emoji(
-					"⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"
+					"⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases."
 				),
 				emoji(
-					"⚡ Building CI/CD pipelines for automated testing & deployment using CircleCi and Argo CD"
+					"⚡ Building CI/CD pipelines for automated testing & deployment using CircleCi and Argo CD."
 				),
 			],
 			softwareSkills: [
@@ -147,10 +147,10 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/Quant.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Backtesting trading systems using historical data"
+					"⚡ Backtesting trading systems using historical data."
 				),
 				emoji(
-					"⚡ Building robust trading systems by performing Walk Forward Optimization using python"
+					"⚡ Building robust trading systems by performing Walk Forward Optimization using Python and VectorBT."
 				)
 			],
 			softwareSkills: [
@@ -225,7 +225,7 @@ export const experience = [
 	{
 		role: "Junior Blockchain Developer",
 		company: "Xade",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		companylogo: "/img/icons/common/Xade.png",
 		date: "April 2023 – Present",
 		desc: "I worked as a blockchain engineer in charge of integration with Metamask, building smart contracts and also managing deployed on chain contracts."
 	},
@@ -234,7 +234,7 @@ export const experience = [
 export const projects = [
 	{
 		name: "ThirdWeb Marketplace",
-		desc: "Using the ThirdWeb SDK, Next.js and Ethers.js, I built an NFT marketplace, Check it out:",
+		desc: "I built an NFT marketplace using the ThirdWeb SDK, Next.js and Ethers.js, Check it out:",
 		github: "https://github.com/salvien-code/ThirdWeb-NFT-Marketplace.",
 	},
 	// {
