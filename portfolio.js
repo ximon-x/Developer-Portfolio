@@ -26,7 +26,7 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "Who am I?",
 	subTitle:
-		"I'm an innovative and Software Developer with a passion for personal growth and learning.",
+		"I'm an innovative and enthusiastic Software Developer with a passion for personal growth and learning.",
 	data: [
 		{
 			title: "Blockchain Development",
