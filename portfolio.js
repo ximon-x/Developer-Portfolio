@@ -70,8 +70,8 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:hardhat-icon",
 				},
 				{
-					skillName: "Ganache",
-					fontAwesomeClassname: "logos:ganache-icon"
+					skillName: "Zeppelin",
+					fontAwesomeClassname: "logos:open-zeppelin-icon"
 				},
 				{
 					skillName: "IPFS",
@@ -127,10 +127,6 @@ export const skillsSection = {
 				{
 					skillName: "CircleCi",
 					fontAwesomeClassname: "logos:circleci"
-				},
-				{
-					skillName: "Argo CD",
-					fontAwesomeClassname: "logos:argo-icon"
 				},
 				{
 					skillName: "Google Cloud",
@@ -226,7 +222,7 @@ export const experience = [
 		role: "Junior Blockchain Developer",
 		company: "Xade",
 		companylogo: "/img/icons/common/Xade.png",
-		date: "April 2023 – Present",
+		date: "April 2022 – Present",
 		desc: "I worked as a blockchain engineer in charge of integration with Metamask, building smart contracts and also managing deployed on chain contracts."
 	},
 ];
