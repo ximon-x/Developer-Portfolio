@@ -86,6 +86,10 @@ export const skillsSection = {
 					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
 				},
 				{
+					skillName: "Nextjs",
+					fontAwesomeClassname: "logos:nextjs-icon",
+				},
+				{
 					skillName: "MaterialUI",
 					fontAwesomeClassname: "simple-icons:mui"
 				},
@@ -104,7 +108,7 @@ export const skillsSection = {
 					"⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases."
 				),
 				emoji(
-					"⚡ Building CI/CD pipelines for automated testing & deployment using CircleCi and Argo CD."
+					"⚡ Building CI/CD pipelines for automated testing & deployment using CircleCi and FluxCD."
 				),
 			],
 			softwareSkills: [
@@ -163,6 +167,11 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:numpy"
 				},
 				{
+					skillName: "Pandas",
+					fontAwesomeClassname: "simple-icons:pandas"
+				},
+				
+				{
 					skillName: "SQLite",
 					fontAwesomeClassname: "vscode-icons:file-type-sqlite"
 				},
@@ -173,6 +182,10 @@ export const skillsSection = {
 				{
 					skillName: "Express",
 					fontAwesomeClassname: "simple-icons:express"
+				},
+				{
+					skillName: "GraphQL",
+					fontAwesomeClassname: "vscode-icons:file-type-graphql"
 				}
 			],
 		},	
