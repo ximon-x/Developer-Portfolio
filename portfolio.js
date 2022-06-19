@@ -170,7 +170,10 @@ export const skillsSection = {
 					skillName: "Pandas",
 					fontAwesomeClassname: "simple-icons:pandas"
 				},
-				
+                {
+                    skillName: "Jupyter",
+                    fontAwesomeClassname: "logos:jupyter"
+                },
 				{
 					skillName: "SQLite",
 					fontAwesomeClassname: "vscode-icons:file-type-sqlite"
@@ -188,7 +191,7 @@ export const skillsSection = {
 					fontAwesomeClassname: "vscode-icons:file-type-graphql"
 				}
 			],
-		},	
+		},
 	],
 };
 
