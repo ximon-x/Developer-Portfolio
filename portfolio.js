@@ -261,6 +261,6 @@ export const feedbacks = [
 	{
 		name: "Harshall Arnav",
 		feedback:
-			"He's catches up quickly and always keeps an open mind."
+			"He catches up quickly and always keeps an open mind."
 	}
 ];
