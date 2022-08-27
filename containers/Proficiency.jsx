@@ -12,7 +12,7 @@ const Proficiency = () => {
 			<Fade bottom duration={2000} >
 				<Row>
 					<Col lg="6">
-						<h1 className="h1">Proficiency</h1>
+						<h1 className="h1">Current Study Progress</h1>
 						{SkillBars.map((skill) => {
 							return (
 								<div
@@ -37,7 +37,7 @@ const Proficiency = () => {
 						})}
 					</Col>
 					<Col lg="6">
-						<GreetingLottie animationPath="/lottie/build.json" />
+						<GreetingLottie animationPath="/lottie/Study.json" />
 					</Col>
 				</Row>
 			</Fade>
