@@ -187,7 +187,7 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Blockchain Developer",
+    role: "Blockchain Developer Intern",
     company: "Xade",
     companylogo: "/img/icons/common/Xade.jpeg",
     date: "April 2022 – June 2022",
