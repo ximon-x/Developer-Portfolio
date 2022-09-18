@@ -157,28 +157,20 @@ export const skillsSection = {
 
 export const SkillBars = [
   {
-    Stack: "Blockchain Development",
-    progressPercentage: "90",
+    Stack: "Hands-On Smart Contract Development with Solidity & Ethereum",
+    progressPercentage: "68",
   },
   {
-    Stack: "Quantitative Analysis",
-    progressPercentage: "80",
+    Stack: "Python for Finance",
+    progressPercentage: "53",
   },
   {
-    Stack: "Cloud Computing",
-    progressPercentage: "60",
-  },
-  {
-    Stack: "Backend Development",
-    progressPercentage: "60",
-  },
-  {
-    Stack: "Frontend Development",
+    Stack: "Rust in Action",
     progressPercentage: "40",
   },
   {
-    Stack: "Systems Programming",
-    progressPercentage: "30",
+    Stack: "The Art of Agile Development",
+    progressPercentage: "37",
   },
 ];
 
@@ -204,7 +196,7 @@ export const experience = [
   {
     role: "Blockchain Developer",
     company: "MysticSwap",
-    companylogo: "/img/icons/common/MysticSwap.png",
+    companylogo: "/img/icons/common/MysticSwap.svg",
     date: "July 2022 – Present",
     desc: "I worked as a blockchain engineer in charge of integration with Metamask, building smart contracts and also managing deployed on chain contracts.",
   },
